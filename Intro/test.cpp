@@ -7,7 +7,7 @@ void testfat()
     cout << "Hello World! I do love the universe, and I am very fat";
 }
 
-int main()
+int main(void)
 {
     testfat();
     return 0;

@@ -6,7 +6,8 @@
 using namespace std;
 
 
-int main() {
+int main(void) {
+    
     /* Enter your code here. Read input from STDIN. Print output to STDOUT */ 
     int a, b; /* initialise two integer variable */
     
